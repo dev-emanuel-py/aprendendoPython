@@ -43,7 +43,6 @@ print(nome.split()[1])
 # [ 0,   1,   2,   3,   4,   5,   6,   7,   8,   9,  10,   11,  12,  13,  14]
 # ['G', 'e', 'e', 'k', ' ', 'U', 'n', 'i', 'v', 'e', 'r', 's', 'i', 't', 'y']
 nome = 'Geek University'
-
 """
 [::-1] -> comece do primeiro elemento, vá ate o ultimo elemento e inverta
 """
